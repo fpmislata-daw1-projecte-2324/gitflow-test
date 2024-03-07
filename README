@@ -6,3 +6,7 @@ Soy una descripción jijiji
 - Develop
 - Feature
 - Hotfix
+
+## Rebase
+Abans de fer un `merge`, cal comprovar que la història siga linial i fer un `rebase`
+en cas que no ho siga.
